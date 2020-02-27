@@ -20,7 +20,7 @@ func main() {
 	flag.Parse()
 
 	// certFile = "test_certificates/my-server.crt"
-	// addr = "admin.hc18.co:19000"
+	// addr = "jd.com:443"
 	// timeoutSecond = 1
 
 	var (
